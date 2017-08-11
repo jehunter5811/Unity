@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NumberWizardWebGL.data.unityweb",
+"asmCodeUrl": "NumberWizardWebGL.asm.code.unityweb",
+"asmMemoryUrl": "NumberWizardWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "NumberWizardWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
