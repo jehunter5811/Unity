@@ -1,0 +1,5131 @@
+fileFormatVersion: 2
+guid: 586d04e76350944a9b69ce9a51b279a0
+timeCreated: 1502826081
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fighterjetsprites_0
+    21300002: fighterjetsprites_1
+    21300004: fighterjetsprites_2
+    21300006: fighterjetsprites_3
+    21300008: fighterjetsprites_4
+    21300010: fighterjetsprites_5
+    21300012: fighterjetsprites_6
+    21300014: fighterjetsprites_7
+    21300016: fighterjetsprites_8
+    21300018: fighterjetsprites_9
+    21300020: fighterjetsprites_10
+    21300022: fighterjetsprites_11
+    21300024: fighterjetsprites_12
+    21300026: fighterjetsprites_13
+    21300028: fighterjetsprites_14
+    21300030: fighterjetsprites_15
+    21300032: fighterjetsprites_16
+    21300034: fighterjetsprites_17
+    21300036: fighterjetsprites_18
+    21300038: fighterjetsprites_19
+    21300040: fighterjetsprites_20
+    21300042: fighterjetsprites_21
+    21300044: fighterjetsprites_22
+    21300046: fighterjetsprites_23
+    21300048: fighterjetsprites_24
+    21300050: fighterjetsprites_25
+    21300052: fighterjetsprites_26
+    21300054: fighterjetsprites_27
+    21300056: fighterjetsprites_28
+    21300058: fighterjetsprites_29
+    21300060: fighterjetsprites_30
+    21300062: fighterjetsprites_31
+    21300064: fighterjetsprites_32
+    21300066: fighterjetsprites_33
+    21300068: fighterjetsprites_34
+    21300070: fighterjetsprites_35
+    21300072: fighterjetsprites_36
+    21300074: fighterjetsprites_37
+    21300076: fighterjetsprites_38
+    21300078: fighterjetsprites_39
+    21300080: fighterjetsprites_40
+    21300082: fighterjetsprites_41
+    21300084: fighterjetsprites_42
+    21300086: fighterjetsprites_43
+    21300088: fighterjetsprites_44
+    21300090: fighterjetsprites_45
+    21300092: fighterjetsprites_46
+    21300094: fighterjetsprites_47
+    21300096: fighterjetsprites_48
+    21300098: fighterjetsprites_49
+    21300100: fighterjetsprites_50
+    21300102: fighterjetsprites_51
+    21300104: fighterjetsprites_52
+    21300106: fighterjetsprites_53
+    21300108: fighterjetsprites_54
+    21300110: fighterjetsprites_55
+    21300112: fighterjetsprites_56
+    21300114: fighterjetsprites_57
+    21300116: fighterjetsprites_58
+    21300118: fighterjetsprites_59
+    21300120: fighterjetsprites_60
+    21300122: fighterjetsprites_61
+    21300124: fighterjetsprites_62
+    21300126: fighterjetsprites_63
+    21300128: fighterjetsprites_64
+    21300130: fighterjetsprites_65
+    21300132: fighterjetsprites_66
+    21300134: fighterjetsprites_67
+    21300136: fighterjetsprites_68
+    21300138: fighterjetsprites_69
+    21300140: fighterjetsprites_70
+    21300142: fighterjetsprites_71
+    21300144: fighterjetsprites_72
+    21300146: fighterjetsprites_73
+    21300148: fighterjetsprites_74
+    21300150: fighterjetsprites_75
+    21300152: fighterjetsprites_76
+    21300154: fighterjetsprites_77
+    21300156: fighterjetsprites_78
+    21300158: fighterjetsprites_79
+    21300160: fighterjetsprites_80
+    21300162: fighterjetsprites_81
+    21300164: fighterjetsprites_82
+    21300166: fighterjetsprites_83
+    21300168: fighterjetsprites_84
+    21300170: fighterjetsprites_85
+    21300172: fighterjetsprites_86
+    21300174: fighterjetsprites_87
+    21300176: fighterjetsprites_88
+    21300178: fighterjetsprites_89
+    21300180: fighterjetsprites_90
+    21300182: fighterjetsprites_91
+    21300184: fighterjetsprites_92
+    21300186: fighterjetsprites_93
+    21300188: fighterjetsprites_94
+    21300190: fighterjetsprites_95
+    21300192: fighterjetsprites_96
+    21300194: fighterjetsprites_97
+    21300196: fighterjetsprites_98
+    21300198: fighterjetsprites_99
+    21300200: fighterjetsprites_100
+    21300202: fighterjetsprites_101
+    21300204: fighterjetsprites_102
+    21300206: fighterjetsprites_103
+    21300208: fighterjetsprites_104
+    21300210: fighterjetsprites_105
+    21300212: fighterjetsprites_106
+    21300214: fighterjetsprites_107
+    21300216: fighterjetsprites_108
+    21300218: fighterjetsprites_109
+    21300220: fighterjetsprites_110
+    21300222: fighterjetsprites_111
+    21300224: fighterjetsprites_112
+    21300226: fighterjetsprites_113
+    21300228: fighterjetsprites_114
+    21300230: fighterjetsprites_115
+    21300232: fighterjetsprites_116
+    21300234: fighterjetsprites_117
+    21300236: fighterjetsprites_118
+    21300238: fighterjetsprites_119
+    21300240: fighterjetsprites_120
+    21300242: fighterjetsprites_121
+    21300244: fighterjetsprites_122
+    21300246: fighterjetsprites_123
+    21300248: fighterjetsprites_124
+    21300250: fighterjetsprites_125
+    21300252: fighterjetsprites_126
+    21300254: fighterjetsprites_127
+    21300256: fighterjetsprites_128
+    21300258: fighterjetsprites_129
+    21300260: fighterjetsprites_130
+    21300262: fighterjetsprites_131
+    21300264: fighterjetsprites_132
+    21300266: fighterjetsprites_133
+    21300268: fighterjetsprites_134
+    21300270: fighterjetsprites_135
+    21300272: fighterjetsprites_136
+    21300274: fighterjetsprites_137
+    21300276: fighterjetsprites_138
+    21300278: fighterjetsprites_139
+    21300280: fighterjetsprites_140
+    21300282: fighterjetsprites_141
+    21300284: fighterjetsprites_142
+    21300286: fighterjetsprites_143
+    21300288: fighterjetsprites_144
+    21300290: fighterjetsprites_145
+    21300292: fighterjetsprites_146
+    21300294: fighterjetsprites_147
+    21300296: fighterjetsprites_148
+    21300298: fighterjetsprites_149
+    21300300: fighterjetsprites_150
+    21300302: fighterjetsprites_151
+    21300304: fighterjetsprites_152
+    21300306: fighterjetsprites_153
+    21300308: fighterjetsprites_154
+    21300310: fighterjetsprites_155
+    21300312: fighterjetsprites_156
+    21300314: fighterjetsprites_157
+    21300316: fighterjetsprites_158
+    21300318: fighterjetsprites_159
+    21300320: fighterjetsprites_160
+    21300322: fighterjetsprites_161
+    21300324: fighterjetsprites_162
+    21300326: fighterjetsprites_163
+    21300328: fighterjetsprites_164
+    21300330: fighterjetsprites_165
+    21300332: fighterjetsprites_166
+    21300334: fighterjetsprites_167
+    21300336: fighterjetsprites_168
+    21300338: fighterjetsprites_169
+    21300340: fighterjetsprites_170
+    21300342: fighterjetsprites_171
+    21300344: fighterjetsprites_172
+    21300346: fighterjetsprites_173
+    21300348: fighterjetsprites_174
+    21300350: fighterjetsprites_175
+    21300352: fighterjetsprites_176
+    21300354: fighterjetsprites_177
+    21300356: fighterjetsprites_178
+    21300358: fighterjetsprites_179
+    21300360: fighterjetsprites_180
+    21300362: fighterjetsprites_181
+    21300364: fighterjetsprites_182
+    21300366: fighterjetsprites_183
+    21300368: fighterjetsprites_184
+    21300370: fighterjetsprites_185
+    21300372: fighterjetsprites_186
+    21300374: fighterjetsprites_187
+    21300376: fighterjetsprites_188
+    21300378: fighterjetsprites_189
+    21300380: fighterjetsprites_190
+    21300382: fighterjetsprites_191
+    21300384: fighterjetsprites_192
+    21300386: fighterjetsprites_193
+    21300388: fighterjetsprites_194
+    21300390: fighterjetsprites_195
+    21300392: fighterjetsprites_196
+    21300394: fighterjetsprites_197
+    21300396: fighterjetsprites_198
+    21300398: fighterjetsprites_199
+    21300400: fighterjetsprites_200
+    21300402: fighterjetsprites_201
+    21300404: fighterjetsprites_202
+    21300406: fighterjetsprites_203
+    21300408: fighterjetsprites_204
+    21300410: fighterjetsprites_205
+    21300412: fighterjetsprites_206
+    21300414: fighterjetsprites_207
+    21300416: fighterjetsprites_208
+    21300418: fighterjetsprites_209
+    21300420: fighterjetsprites_210
+    21300422: fighterjetsprites_211
+    21300424: fighterjetsprites_212
+    21300426: fighterjetsprites_213
+    21300428: fighterjetsprites_214
+    21300430: fighterjetsprites_215
+    21300432: fighterjetsprites_216
+    21300434: fighterjetsprites_217
+    21300436: fighterjetsprites_218
+    21300438: fighterjetsprites_219
+    21300440: fighterjetsprites_220
+    21300442: fighterjetsprites_221
+    21300444: fighterjetsprites_222
+    21300446: fighterjetsprites_223
+    21300448: fighterjetsprites_224
+    21300450: fighterjetsprites_225
+    21300452: fighterjetsprites_226
+    21300454: fighterjetsprites_227
+    21300456: fighterjetsprites_228
+    21300458: fighterjetsprites_229
+    21300460: fighterjetsprites_230
+    21300462: fighterjetsprites_231
+    21300464: fighterjetsprites_232
+    21300466: fighterjetsprites_233
+    21300468: fighterjetsprites_234
+    21300470: fighterjetsprites_235
+    21300472: fighterjetsprites_236
+    21300474: fighterjetsprites_237
+    21300476: fighterjetsprites_238
+    21300478: fighterjetsprites_239
+    21300480: fighterjetsprites_240
+    21300482: fighterjetsprites_241
+    21300484: fighterjetsprites_242
+    21300486: fighterjetsprites_243
+    21300488: fighterjetsprites_244
+    21300490: fighterjetsprites_245
+    21300492: fighterjetsprites_246
+    21300494: fighterjetsprites_247
+    21300496: fighterjetsprites_248
+    21300498: fighterjetsprites_249
+    21300500: fighterjetsprites_250
+    21300502: fighterjetsprites_251
+    21300504: fighterjetsprites_252
+    21300506: fighterjetsprites_253
+    21300508: fighterjetsprites_254
+    21300510: fighterjetsprites_255
+    21300512: fighterjetsprites_256
+    21300514: fighterjetsprites_257
+    21300516: fighterjetsprites_258
+    21300518: fighterjetsprites_259
+    21300520: fighterjetsprites_260
+    21300522: fighterjetsprites_261
+    21300524: fighterjetsprites_262
+    21300526: fighterjetsprites_263
+    21300528: fighterjetsprites_264
+    21300530: fighterjetsprites_265
+    21300532: fighterjetsprites_266
+    21300534: fighterjetsprites_267
+    21300536: fighterjetsprites_268
+    21300538: fighterjetsprites_269
+    21300540: fighterjetsprites_270
+    21300542: fighterjetsprites_271
+    21300544: fighterjetsprites_272
+    21300546: fighterjetsprites_273
+    21300548: fighterjetsprites_274
+    21300550: fighterjetsprites_275
+    21300552: fighterjetsprites_276
+    21300554: fighterjetsprites_277
+    21300556: fighterjetsprites_278
+    21300558: fighterjetsprites_279
+    21300560: fighterjetsprites_280
+    21300562: fighterjetsprites_281
+    21300564: fighterjetsprites_282
+    21300566: fighterjetsprites_283
+    21300568: fighterjetsprites_284
+    21300570: fighterjetsprites_285
+    21300572: fighterjetsprites_286
+    21300574: fighterjetsprites_287
+    21300576: fighterjetsprites_288
+    21300578: fighterjetsprites_289
+    21300580: fighterjetsprites_290
+    21300582: fighterjetsprites_291
+    21300584: fighterjetsprites_292
+    21300586: fighterjetsprites_293
+    21300588: fighterjetsprites_294
+    21300590: fighterjetsprites_295
+    21300592: fighterjetsprites_296
+    21300594: fighterjetsprites_297
+    21300596: fighterjetsprites_298
+    21300598: fighterjetsprites_299
+    21300600: fighterjetsprites_300
+    21300602: fighterjetsprites_301
+    21300604: fighterjetsprites_302
+    21300606: fighterjetsprites_303
+    21300608: fighterjetsprites_304
+    21300610: fighterjetsprites_305
+    21300612: fighterjetsprites_306
+    21300614: fighterjetsprites_307
+    21300616: fighterjetsprites_308
+    21300618: fighterjetsprites_309
+    21300620: fighterjetsprites_310
+    21300622: fighterjetsprites_311
+    21300624: fighterjetsprites_312
+    21300626: fighterjetsprites_313
+    21300628: fighterjetsprites_314
+    21300630: fighterjetsprites_315
+    21300632: fighterjetsprites_316
+    21300634: fighterjetsprites_317
+    21300636: fighterjetsprites_318
+    21300638: fighterjetsprites_319
+    21300640: fighterjetsprites_320
+    21300642: fighterjetsprites_321
+    21300644: fighterjetsprites_322
+    21300646: fighterjetsprites_323
+    21300648: fighterjetsprites_324
+    21300650: fighterjetsprites_325
+    21300652: fighterjetsprites_326
+    21300654: fighterjetsprites_327
+    21300656: fighterjetsprites_328
+    21300658: fighterjetsprites_329
+    21300660: fighterjetsprites_330
+    21300662: fighterjetsprites_331
+    21300664: fighterjetsprites_332
+    21300666: fighterjetsprites_333
+    21300668: fighterjetsprites_334
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fighterjetsprites_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 848
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 848
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 848
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 848
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 848
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_8
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 850
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 850
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_18
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_19
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_21
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 836
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 819
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 819
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 819
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 819
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_26
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_27
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_30
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_33
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_36
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_38
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_39
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_40
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_42
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_43
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 800
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 791
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 791
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 791
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 785
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 785
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_51
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_52
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_53
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_54
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_55
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_56
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_57
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_58
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 797
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 772
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 772
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_63
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_64
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 760
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_65
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 769
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 769
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_67
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 769
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 769
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 769
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 769
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_73
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_74
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 769
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 757
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_76
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 757
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 751
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 747
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 751
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 734
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 734
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_82
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_83
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 745
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 745
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_88
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 745
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_89
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 745
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_90
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 745
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 745
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 726
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 726
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 726
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_95
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 729
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_96
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 729
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_97
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 729
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_98
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 707
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_99
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 707
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_100
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 709
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 709
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_102
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 714
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 716
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_104
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 714
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_105
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 710
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_106
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 710
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_107
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 689
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_108
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 701
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_109
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 700
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_110
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 690
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_111
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 687
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_112
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 690
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 686
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_114
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 682
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_116
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 689
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_117
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_118
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 681
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_119
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 685
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_120
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 650
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_121
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 650
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 650
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_123
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 650
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_124
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 650
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_125
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_126
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 661
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_127
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 659
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_128
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 663
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_129
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 663
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_130
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 663
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_131
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 638
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_133
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 639
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_134
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 639
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_135
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 638
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_136
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 639
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_137
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 646
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_138
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 645
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_139
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 644
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_140
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 644
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_141
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_143
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_144
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 615
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_145
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 605
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_146
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 605
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_147
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 605
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_148
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 605
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_149
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 605
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_150
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_151
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 626
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_152
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 630
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_153
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 624
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_154
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 622
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_155
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 624
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_156
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 618
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_157
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 618
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_158
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_159
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_160
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_161
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 608
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_162
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 580
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_163
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 580
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_164
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 584
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_165
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 583
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_166
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 584
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_167
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 584
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_168
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 583
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_169
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 584
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_170
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_171
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_172
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_173
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 592
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_174
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_175
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_176
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 580
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_177
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 559
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_178
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 559
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_179
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 551
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_180
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 551
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_181
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 551
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 551
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_183
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 551
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_184
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 560
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_185
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 560
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_186
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 560
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_187
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 560
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_188
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_189
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_190
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_191
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_192
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_193
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 550
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_194
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 515
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_195
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 515
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_196
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 510
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_197
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 510
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_199
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 510
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_200
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 510
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_201
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 535
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_202
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 535
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_203
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_204
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 535
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_205
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 515
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_206
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 515
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_207
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 515
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_208
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 515
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_209
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 510
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_210
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 510
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_211
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 510
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_212
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 510
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_213
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 486
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_214
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 486
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_215
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 486
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_216
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 486
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_217
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 486
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_218
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 486
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_219
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 486
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_220
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 486
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_221
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 486
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_222
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 486
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_223
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 486
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_224
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 492
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_225
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 487
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_226
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_227
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_228
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_229
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_230
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_231
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_232
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 436
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_233
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 439
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_234
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 464
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_235
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 464
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_236
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 436
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_237
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 439
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_238
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 436
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_239
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 436
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_240
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 434
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_241
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 434
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_242
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 435
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_244
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_245
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_246
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_247
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_248
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 403
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_249
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 403
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_250
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 403
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_251
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 403
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_252
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 397
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_253
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 397
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_254
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 398
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_255
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_256
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_257
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 370
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_258
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 373
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_259
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 373
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_260
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 373
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_261
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_262
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_263
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_264
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 337
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_265
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 339
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_266
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 339
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_267
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 340
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_268
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 339
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_269
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 338
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_270
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 340
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_271
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 340
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_272
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_273
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_274
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_275
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_276
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_277
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_278
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 285
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_279
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 288
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_280
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 285
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_281
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_282
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 288
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_283
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 285
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_284
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_285
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_286
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 283
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_287
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_288
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_289
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_290
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_291
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 252
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_292
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_293
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 252
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_294
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 252
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_295
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 252
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_296
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_297
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_298
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_299
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_300
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_301
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_302
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 222
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_303
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 222
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_304
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_305
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_306
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_307
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_308
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_309
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_310
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_311
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_312
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 186
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_313
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 183
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_314
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 186
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_315
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 183
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_316
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_317
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 200
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_318
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_319
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 200
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_320
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_321
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_322
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_323
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_324
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 150
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_325
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 150
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_326
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 150
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_327
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 153
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_328
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 150
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_329
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_330
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_331
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_332
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_333
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 117
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fighterjetsprites_334
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 117
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
