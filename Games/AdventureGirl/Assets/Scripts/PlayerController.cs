@@ -71,6 +71,8 @@ public class PlayerController : MonoBehaviour {
 			anim.SetBool ("melee", false);
 		}
 
+
+
 		silverUI.gameObject.GetComponent<Text> ().text = ("" + silverCount);
 		goldUI.gameObject.GetComponent<Text> ().text = ("" + goldCount);
 	}

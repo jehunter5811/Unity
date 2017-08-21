@@ -24,7 +24,6 @@ public class Intro : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		rb.velocity = new Vector2 (spriteSpeed, 0);
-		GameObject.FindGameObjectWithTag("enemyGuy").GetComponent<Rigidbody2D>().velocity = new Vector3 (3, 0, 0);
 	}
 
 
