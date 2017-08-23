@@ -14,9 +14,10 @@ public class PlayerController : MonoBehaviour {
 	public int bulletCount = 8;
 	public GameObject silverUI;
 	public GameObject goldUI;
+	public GameObject springPrefab;
 
-	private int goldCount = 0;
-	private int silverCount = 0;
+	public int goldCount;
+	public int silverCount = 0;
 	private bool _isGrounded = true;
 	private float moveX;
 	private bool facingRight = true;
@@ -24,6 +25,10 @@ public class PlayerController : MonoBehaviour {
 	Animator animator;
 	private Animator anim;
 
+
+	void Awake() {
+//		DontDestroyOnLoad (gameObject);
+	}
 	// Use this for initialization
 	void Start()
 	{
@@ -96,6 +101,15 @@ public class PlayerController : MonoBehaviour {
 		if (coll.gameObject.tag == "ground") {
 			
 			_isGrounded = true;
+		}
+		if (coll.gameObject.tag == "spring") {
+			anim.SetBool("sprung", true);
+			GetComponent<Rigidbody2D>().AddForce (Vector2.up * playerJumpPower * 2.5f);
+		}
+		if (coll.gameObject.tag == "prizeblock") {
+			Vector3 springPos = new Vector3 (45.25f, 8.76f, 0);
+			GameObject spring = Instantiate (springPrefab, springPos, Quaternion.identity);
+			Destroy (GameObject.FindGameObjectWithTag ("prizeblock").gameObject);
 		}
 	}
 

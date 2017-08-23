@@ -39,6 +39,10 @@ public class EnemyGuyController : MonoBehaviour {
 		if (coll.gameObject.tag == "Player" && Input.GetKeyDown (KeyCode.RightShift)) {
 			enemyGuyHealth = enemyGuyHealth - 1;
 		}
+
+		if (coll.gameObject.tag == "enemyGuy") {
+			FlipEnemy ();
+		}
 	}
 
 	void OnTriggerEnter2D (Collider2D trig) {
@@ -49,6 +53,7 @@ public class EnemyGuyController : MonoBehaviour {
 		if (trig.gameObject.tag == "end") {
 			FlipEnemy ();
 		}
+			
 	}
 
 	void FlipEnemy() {

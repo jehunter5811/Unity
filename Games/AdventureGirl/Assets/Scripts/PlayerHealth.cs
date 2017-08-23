@@ -45,6 +45,10 @@ public class PlayerHealth : MonoBehaviour {
 			GetComponent<Rigidbody2D>().AddForce (Vector2.up * playerBounce);
 			StartCoroutine ("Rotate");
 		}
+		if (coll.gameObject.tag == "tomato") {
+			Destroy(GameObject.FindGameObjectWithTag ("tomato").gameObject);
+			playerHealth = playerHealth - 1;
+		}
 	}
 
 	public IEnumerator Rotate () {

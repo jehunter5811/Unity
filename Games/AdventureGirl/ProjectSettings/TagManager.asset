@@ -17,6 +17,9 @@ TagManager:
   - bullet
   - silverCoin
   - stuffie
+  - spring
+  - prizeblock
+  - tomato
   layers:
   - Default
   - TransparentFX
