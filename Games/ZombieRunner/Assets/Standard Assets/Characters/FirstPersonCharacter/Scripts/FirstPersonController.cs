@@ -3,6 +3,7 @@ using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 using UnityStandardAssets.Utility;
 using Random = UnityEngine.Random;
+using System.Collections;
 
 namespace UnityStandardAssets.Characters.FirstPerson
 {
@@ -42,6 +43,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
+		public Light lt;
+
         // Use this for initialization
         private void Start()
         {
@@ -55,6 +58,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_Jumping = false;
             m_AudioSource = GetComponent<AudioSource>();
 			m_MouseLook.Init(transform , m_Camera.transform);
+			lt = GameObject.Find("Directional Light").GetComponent<Light>();
         }
 
 
@@ -255,5 +259,19 @@ namespace UnityStandardAssets.Characters.FirstPerson
             }
             body.AddForceAtPosition(m_CharacterController.velocity*0.1f, hit.point, ForceMode.Impulse);
         }
+
+		void OnCollisionEnter(Collision coll) {
+			if (coll.gameObject.tag == "zombie"){
+				StartCoroutine ("ColorHit");
+			}
+		}
+
+		IEnumerator ColorHit() {
+			Color32 color32 = new Color32(255, 244, 214, 255);
+			yield return new WaitForSeconds (0.3f);
+			lt.color = Color.red;
+			yield return new WaitForSeconds (0.5f);
+			lt.color = color32;
+		}
     }
 }
