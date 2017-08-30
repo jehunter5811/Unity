@@ -14,14 +14,18 @@ public class ZombieController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+//		anim.SetBool ("isClose", false);
 	}
 
-	void OnCollisionEnter (Collision coll) {
+	void OnTriggerEnter (Collider coll) {
 		if (coll.gameObject.tag == "Player") {
 			anim.SetBool ("isClose", true);
-		} else {
-			anim.SetBool ("isClose", false);
+			StartCoroutine ("ZombieAttack");
 		}
+	}
+
+	IEnumerator ZombieAttack () {
+		yield return new WaitForSeconds (0.5f);
+		anim.SetBool ("isClose", false);
 	}
 }
